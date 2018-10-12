@@ -11,3 +11,12 @@ Copy-paste veganburger.css stylesheet '<link>' into your '<head>' after all othe
 ```
 <link rel="stylesheet" href="https://veganburger.neocities.org/assets/fonts/veganburger.css">
 ```
+
+### HTML Code Snippet 
+Copy-paste into your files to use. In Bootstrap replace the 'navbar' > 'button' element 'navbar-toggler'
+
+```
+<span class="icon-veganburger">
+  <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span>
+</span>
+```
