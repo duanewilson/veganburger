@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'veganburger';
+  src:  url('https://veganburger.neocities.org/assets/fonts/veganburger.eot?7ydl1e');
+  src:  url('https://veganburger.neocities.org/assets/fonts/veganburger.eot?7ydl1e#iefix') format('embedded-opentype'),
+        url('https://veganburger.neocities.org/assets/fonts/veganburger.ttf?7ydl1e') format('truetype'),
+        url('https://veganburger.neocities.org/assets/fonts/veganburger.woff?7ydl1e') format('woff'),
+        url('https://veganburger.neocities.org/assets/fonts/veganburger.svg?7ydl1e#veganburger') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'veganburger' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-veganburger .path1:before {
+  content: "\e900";
+  color: rgb(0, 0, 0);
+}
+.icon-veganburger .path2:before {
+  content: "\e901";
+  margin-left: -1.2001953125em;
+  color: rgb(255, 255, 255);
+}
+.icon-veganburger .path3:before {
+  content: "\e902";
+  margin-left: -1.2001953125em;
+  color: rgb(0, 0, 0);
+}
+.icon-veganburger .path4:before {
+  content: "\e903";
+  margin-left: -1.2001953125em;
+  color: rgb(255, 255, 255);
+}
+.icon-veganburger .path5:before {
+  content: "\e904";
+  margin-left: -1.2001953125em;
+  color: rgb(0, 0, 0);
+}
+.icon-veganburger .path6:before {
+  content: "\e905";
+  margin-left: -1.2001953125em;
+  color: rgb(255, 255, 255);
+}
